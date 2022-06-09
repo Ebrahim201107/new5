@@ -496,4 +496,27 @@ article{
     .header4{
         margin-top:101px;
     }
+    /*  */
+    .adver-img-1{
+        height:100px;
+    }
+    .add-picture{
+        width: 70px;
+        font-size: clamp(14px,2vw,20px);
+    
+    }
+    .text{
+        position: absolute;
+        top: 25%;
+        right: 20%;
+    }
+    .next-btn{
+        margin-right: 105px;
+    }
+    /*  */
+    .spand-line1{
+        width: 93%;
+        border-bottom:3px solid rgb(153, 153, 153);
+    }
 }
+/*  */
