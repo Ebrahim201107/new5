@@ -245,7 +245,7 @@ body {
     color: #131921;
 }
 .cont-items{
-    padding: 20px 50px;
+    padding: 30px 50px;
 }
 .back-icon{
     align-items: center;
@@ -403,7 +403,7 @@ article{
 
 }
 .respon{
-    padding: 30px 30px 20px 0px;
+    padding: 10px 30px 10px 0px;
 }    
 .respon button{
     padding: 2px;
@@ -520,6 +520,9 @@ article{
     }
     .commont{
         width: 100%;
+    }
+    .cont-items{
+        padding: 30px 20px;
     }
 }
 /*  */
